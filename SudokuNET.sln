@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "UI\UI.csproj", "{63F08689-4E69-4346-A913-8780C2B50014}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic", "Logic\Logic.csproj", "{9DE7DBD5-EB4E-477C-B813-B2D8DB8B2039}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63F08689-4E69-4346-A913-8780C2B50014}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63F08689-4E69-4346-A913-8780C2B50014}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63F08689-4E69-4346-A913-8780C2B50014}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63F08689-4E69-4346-A913-8780C2B50014}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DE7DBD5-EB4E-477C-B813-B2D8DB8B2039}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DE7DBD5-EB4E-477C-B813-B2D8DB8B2039}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DE7DBD5-EB4E-477C-B813-B2D8DB8B2039}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DE7DBD5-EB4E-477C-B813-B2D8DB8B2039}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
